@@ -1,4 +1,4 @@
-# Magento2 Extensions & Tools yousimply cannot ignore
+# Magento2 Extensions & Tools you have to explore
 ## Tools
 ## Extensions
 ## Admin
