@@ -1,2 +1,5 @@
-# m2-must-installs
-Tools and Extensions you cannot ignore
+# Magento2 Extensions & Tools yousimply cannot ignore
+## Tools
+## Extensions
+## Admin
+## Frontend
